@@ -1,0 +1,14 @@
+p {
+  font-family: Lato;
+}
+
+.pdf-container {
+  display: flex;
+  border: solid 1px blue;
+}
+
+.viewer {
+  position: absolute; 
+  height: 100%;
+  width: 100%;
+}
